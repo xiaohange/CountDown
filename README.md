@@ -1,2 +1,6 @@
 # countDown
 iOS倒计时，显示 天、时、分、秒。比如：离活动结束还有   0天 01: 14: 59
+
+### 效果如下:
+
+![](http://img.blog.csdn.net/20160219205417733?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
